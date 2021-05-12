@@ -1,7 +1,7 @@
 
 The HTML is in the Views Folder in index.ejs. <br>
 index.ejs : <br>
-respond with something the user can see and interact with. Regular HTML is hardcoded, you can't pass value into it. <br>
+Respond with something the user can see and interact with. Regular HTML is hardcoded, you can't pass value into it. <br>
 Use ejs to dynamically generate HTML that we respond to the user with. 
 
 
