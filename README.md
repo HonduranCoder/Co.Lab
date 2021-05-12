@@ -1,5 +1,5 @@
 
-The HTML is in the views folder in index.ejs. The css and frontend JS is in the public folder. 
+The HTML is in the Views Folder in index.ejs. The CSS and Frontend JS is in the Public Folder. 
 
 
 
